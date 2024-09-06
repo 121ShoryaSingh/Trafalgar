@@ -1,5 +1,5 @@
 
-import MobileNav from "./mobileNav"
+import MobileNav from "./MobileNav"
 
 export {
  MobileNav,
