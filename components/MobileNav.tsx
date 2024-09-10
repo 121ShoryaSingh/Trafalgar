@@ -65,6 +65,7 @@ const mobileNav = ({children} : Props) => {
               </div>
           )}
       </div>
+      {children}
     </>
   )
 }
