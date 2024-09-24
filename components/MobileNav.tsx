@@ -30,7 +30,7 @@ const mobileNav = ({children} : Props) => {
 
   return (
     <>
-      <div className='max-w-7xl mx-auto sticky top-0 z-[20]  px-8 sm:px-10 lg:px-12'>
+      <div className='max-w-7xl mx-auto sticky top-0 z-[20]  px-8 sm:px-10 lg:px-12 bg-white'>
         <div className='flex justify-between items-center h-16'>
           {/* Logo */}
           <Logo />
